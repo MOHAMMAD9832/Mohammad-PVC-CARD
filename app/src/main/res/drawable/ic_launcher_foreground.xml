@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Glow / Card Shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M 23,37 C 23,34 25,32 28,32 L 80,32 C 83,32 85,34 85,37 L 85,73 C 85,76 83,78 80,78 L 28,78 C 25,78 23,76 23,73 Z" />
+    <!-- PVC Card White/Silver Base -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M 23,35 C 23,32 25,30 28,30 L 80,30 C 83,30 85,32 85,35 L 85,71 C 85,74 83,76 80,76 L 28,76 C 25,76 23,74 23,71 Z" />
+    <!-- Top Blue Header Accent -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M 23,35 C 23,32 25,30 28,30 L 80,30 C 83,30 85,32 85,35 L 85,41 L 23,41 Z" />
+    <!-- Gold Microchip / Smart Chip -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M 28,45 L 37,45 C 38,45 39,46 39,47 L 39,53 C 39,54 38,55 37,55 L 28,55 C 27,55 26,54 26,53 L 26,47 C 26,46 27,45 28,45 Z" />
+    <!-- Photo Avatar Frame -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M 68,45 L 79,45 C 80,45 81,46 81,47 L 81,61 C 81,62 80,63 79,63 L 68,63 C 67,63 66,62 66,61 L 66,47 C 66,46 67,45 68,45 Z" />
+    <!-- Avatar Head & Shoulders -->
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M 73.5,49 A 2.5,2.5 0 1,0 73.5,54 A 2.5,2.5 0 1,0 73.5,49 M 69,61 C 69,57.5 71,56 73.5,56 C 76,56 78,57.5 78,61 Z" />
+    <!-- Text Lines (Name, ID, Barcode Lines) -->
+    <path
+        android:fillColor="#0369A1"
+        android:pathData="M 26,59 L 52,59 L 52,61 L 26,61 Z" />
+    <path
+        android:fillColor="#64748B"
+        android:pathData="M 26,63 L 60,63 L 60,65 L 26,65 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M 26,67 L 46,67 L 46,69 L 26,69 Z" />
+    <!-- Holographic / Quality Print Seal on bottom-right -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 73.5,67 A 3,3 0 1,0 73.5,73 A 3,3 0 1,0 73.5,67 Z" />
+    <!-- Precision Corner Crop / Print Alignment Marks -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 18,25 L 23,25 L 23,27 L 20,27 L 20,30 L 18,30 Z M 90,25 L 85,25 L 85,27 L 88,27 L 88,30 L 90,30 Z M 18,81 L 23,81 L 23,79 L 20,79 L 20,76 L 18,76 Z M 90,81 L 85,81 L 85,79 L 88,79 L 88,76 L 90,76 Z" />
+</vector>

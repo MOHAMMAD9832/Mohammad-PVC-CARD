@@ -1,0 +1,6 @@
+{
+  "name": "Mohammad PVC Card",
+  "description": "Professional CR80 PVC ID card layout, enhancement, and 300 DPI print generator for cyber cafes and print shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

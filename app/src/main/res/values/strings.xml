@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mohammad PVC Card</string>
+    <string name="subtitle">Digital Cyber Cafe PVC Studio</string>
+    <string name="preset_aadhaar">Aadhaar Card</string>
+    <string name="preset_pan">PAN Card</string>
+    <string name="preset_voter">Voter Card</string>
+    <string name="preset_ration">Ration Card / Other</string>
+</resources>
